@@ -1,4 +1,4 @@
-#Projeto Figma 🌐
+###Projeto Figma 🌐
 
 Uma landing page moderna e responsiva criada para uma empresa genérica especializada em produtos digitais. Este projeto foca em design visual atrativo e funcionalidade, com base em um protótipo desenvolvido no **Figma**.
 
